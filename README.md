@@ -1,5 +1,7 @@
 # Vrinda Store - Sales Data Analysis and Dashboard | Excel Project
 
+![Vrinda Store Dashboard](Dashboard.png)
+
 ## 📊 About The Project
 This project is a comprehensive sales data analysis for Vrinda Store, a retail store. The goal was to analyze sales performance, understand customer trends, and create an interactive dashboard for business decision-making using Microsoft Excel.
 
